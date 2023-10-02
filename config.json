@@ -1,8 +1,9 @@
 {
     "financial_modelling_prep_api_key":"<your own fmp key>",
     "openai_api_key":"<your own openai key>",
-    "annual_reports_html_save_directory":"<directory where fetched 10-k html files will be saved>",
-    "annual_reports_pdf_save_directory":"<directory where pdf files converted from html files will be saved>",
+    "annual_reports_html_save_directory":"/app/data/10k_html",
+    "annual_reports_pdf_save_directory":"/app/data/10k_pdf",
+    "10k_df_pkl_pathfn": "/app/data/all_10k_df.pkl",
     "targets_df_path":"<pandas df containing generated target columns saved as pickle file>",
     "targets_train_df_path":"<pandas df of sampled train data saved as pickle file>",
     "targets_test_df_path":"<pandas df of sampled test data saved as pickle file>",
