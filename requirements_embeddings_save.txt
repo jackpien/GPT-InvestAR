@@ -1,0 +1,7 @@
+jupyterlab>=4.0.2
+llama-index>=0.8.53.post3
+chromadb>=0.4.15
+pandas>=2.0.3
+pep8>=1.7.1
+sentence-transformers>=2.2.2
+pypdf>=3.16.4

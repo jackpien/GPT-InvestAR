@@ -1,3 +1,4 @@
 data
 venv_*
 __pycache__
+.env
